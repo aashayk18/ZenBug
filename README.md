@@ -1,2 +1,2 @@
 # ZenBug
-Custom bug-tracking system meeting specific user and developer needs. Project files and documentation.
+ZenBug is a custom-built bug tracking and management software that allows users to add bugs with additional tags and enables developers to update bug progress and patches with ease.
